@@ -18,3 +18,7 @@
     max-width: 90vw;
     max-height: 90vh;
 }
+
+#byline {
+    font-size: 20px;
+}

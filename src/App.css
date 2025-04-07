@@ -16,10 +16,33 @@
 
 #byline {
   font-size: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .comic_img {
   width: 500px;
   max-width: 90vw;
+}
+
+#comic-separator {
+  margin: 50px 0px;
+}
+
+#comic-title {
+  font-size: x-large;
+  margin: 10px 0px;
+}
+
+#header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+#header-img {
+  display: block;
+  width: 70px;
+  margin-right: 20px;
 }

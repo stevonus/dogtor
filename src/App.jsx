@@ -23,6 +23,14 @@ function App() {
     },
     {
       title: "Sunscreen",
+      images: [
+        "../images/Sunscreen 1.png",
+        "../images/Sunscreen 2.png",
+        "../images/Sunscreen 3.png",
+      ],
+    },
+    {
+      title: "Sunscreen (Early Version)",
       images: ["../images/comic_1.jpg"],
     },
   ];

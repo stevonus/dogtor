@@ -1,0 +1,25 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#title {
+  padding-top: 40px;
+}
+
+#byline {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.comic_img {
+  width: 500px;
+  max-width: 90vw;
+}
